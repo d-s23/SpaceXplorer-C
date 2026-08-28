@@ -78,5 +78,7 @@ The game is completed when the player successfully locates Earth. Running out of
 
 The project was developed iteratively, with testing covering movement and boundaries, random starting locations, resource generation, fuel management, spaceship health, repairs, difficulty levels, win/loss conditions and leaderboard functionality.
 
+<img width="336" height="568" alt="image" src="https://github.com/user-attachments/assets/f3baef59-7af7-46c3-8bdb-f7a8acf5dd5d" />
+
 ## Author: ##
  Dev S
