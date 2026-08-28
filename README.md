@@ -33,36 +33,35 @@ The objective is to navigate a randomly generated 2D galaxy, manage fuel and spa
 
 Select a difficulty level, then use the main menu to:
 
-Move using W, A, S and D
-Repair the ship when on a planet
-Check your statistics to monitor location, fuel, health and space junk
-Quit the game at any time
+* Move using W, A, S and D
+* Repair the ship when on a planet
+* Check your statistics to monitor location, fuel, health and space junk
+* Quit the game at any time
 
 ## Controls ##
-Input		Action
-1		Move
-2		Repair Ship
-3		Check Stats
-4		Quit Game
+1 = Move
+
+2	= Repair Ship
+
+3	=	Check Stats
+
+4	=	Quit Game
 
 
-Input		Direction
 
-W		Up
-S		Down
-A		Left
-D		Right
+
+W	=	Up
+
+S	=	Down
+
+A	=	Left
+
+D	=	Right
 
 
 ## Difficulty ##
 
 The game offers three difficulty levels, which affect encounter frequency and the damage received from hazards.
-
-Difficulty	Encounter Multiplier	Damage
-Easy		    12			              10
-Medium		  10			              20
-Hard		    8			                30
-
 (Invalid difficulty selections default to Medium.)
 
 
