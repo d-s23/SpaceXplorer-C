@@ -1,0 +1,17 @@
+Welcome to SpaceXplorer!
+
+You are the captain of a spaceship on a mission to make your way back to Earth. On your way you will explore
+different planets, collect resources like fuel and space junk to help you on your way to locate Earth.
+
+The universe is dangerous, so you will need to manage your resources wisely and avoid running out of fuel or
+damaging your ship!
+
+Game Rules:
+1. You start with a limited amount of fuel and ship health.
+2. Each lightspeed you make consumes fuel. Be sure to keep an eye on your fuel levels!
+3. You can collect fuel and space junk from planets you visit.
+4. Use fuel to keep moving, and space junk can be used for repairs.
+5. If you run out of fuel, or your ship's health reaches 0, the game will end as well.
+6. The goal is to find Earth. Keep exploring, and with each step, your chances of finding Earth increase!
+7. You can only repair your ship when you're on a planet.
+8. There will be things like a meteors and potentially aliens looking to attack you so watch out!
